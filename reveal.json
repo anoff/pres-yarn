@@ -1,0 +1,8 @@
+{
+    "controls": true,
+    "progress": true,
+    "overview": true,
+    "transition": "slide",
+    "theme": "./solarized-fa.css",
+    "highlightTheme": "github"
+}

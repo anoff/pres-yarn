@@ -1,0 +1,18 @@
+{
+  "name": "pres-yarn",
+  "version": "1.0.0",
+  "description": "presentation of first experiences with yarn",
+  "main": "",
+  "scripts": {
+    "start": "npm install && ./node_modules/reveal-md/bin/cli.js PRESENTATION.md"
+  },
+  "repository": {
+    "url": "git@github.com:anoff/pres-yarn.git",
+    "type": "git"
+  },
+  "author": "anoff <offispam@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "reveal-md": "0.0.30"
+  }
+}
