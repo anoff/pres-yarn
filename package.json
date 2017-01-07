@@ -13,6 +13,6 @@
   "author": "anoff <offispam@gmail.com>",
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
-    "reveal-md": "0.0.30"
+    "reveal-md": "0.0.32"
   }
 }
